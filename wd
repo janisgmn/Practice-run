@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<title>Practice Run</title>
+		<meta name="decription" content="list">
+		<meta name="author" content="SitePoint">
+	</head>
+
+	<body>
+		<di id="di">
+			<ul class="contemporary-style">
+				<li>
+					Home
+				</li>
+				<li>
+					Home
+				</li>
+				<li>
+					Home
+				</li>
+			</ul>
+		</di>
+
+		<script>
+			const di = document.getElementByID("id");
+
+			console.log(di);
+		</script>script>
+	</body>
+</html>
